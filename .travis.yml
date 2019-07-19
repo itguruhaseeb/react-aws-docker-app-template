@@ -12,7 +12,7 @@ deploy:
   provider: elasticbeanstalk
   region:  "us-east-1"
   app: "smart-charging"
-  env: "SmartCharging-env"
+  env: "SmartCharging-env-1"
   bucket_name: "elasticbeanstalk-us-east-1-771111508342"
   bucket_path: "smart-charging"
   on:
